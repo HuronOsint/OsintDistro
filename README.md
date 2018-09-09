@@ -6,3 +6,5 @@ En Hurón encontrarás herramientas fundamentales como Maltego o Recon-NG listas
 # DESCARGA
 Puedes descargar la ova de VirtualBox desde el siguiente enlace:
 https://mega.nz/#F!SboFCQya!eChso_SMirLFbgzw3ZPMgA
+
+
